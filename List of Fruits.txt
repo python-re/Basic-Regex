@@ -1,0 +1,41 @@
+Apple
+Apricot
+Plum
+Pomegranate
+Pomegranates
+Apples
+Apricots
+Plums
+Tomato
+Tomatoes
+Grape
+Grapes
+Strawberry
+Dragonfruit
+Pear
+Guavas
+Mango
+Kiwi
+Jackfruit
+Durian
+Starfruit
+Blueberry
+Raspberries
+Blueberries
+Blackberry
+Orange
+Raspberry
+Blackberries
+Gala Apple(s)
+Macintosh Apple(s)
+Golden Delicious Apple(s)
+Red Delicious Apple(s)
+Lemon
+Lemons
+Lime
+Limes
+Oranges
+Guava
+Coconut
+Mangoes
+Coconut(s)

@@ -1,0 +1,40 @@
+Carrot
+Lettuce
+Cabbage
+Carrots
+Cabbage(s)
+Radish
+Kale
+Eggplant
+Pepper
+Jalapeño Pepper(s)
+Bell Pepper(s)
+Gren Bell Pepper(s)
+Eggplants
+Radishes
+Peppers
+Cucumber
+Zucchini
+Squash
+Butternut Squash
+Potato
+Cucumber(s)
+Celery Stick(s)
+Corn
+Onion
+Celery
+Avocado
+Celery Stalks
+Broccoli
+Spinach
+Asparagus
+Pumpkin
+Mushroom
+Parsnip
+Pumpkins
+Parsnips
+Beans
+Mushrooms
+Bean
+Dill
+
